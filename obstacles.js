@@ -158,7 +158,7 @@ class Message {
 }
 //________________________________
 
-let blockLength = 300;
+let blockLength = 320;
 let gap = 150;
 
 function setMenu() {
