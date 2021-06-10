@@ -169,7 +169,7 @@ function setMenu() {
   );
 
   for (let i = 0; i < namesList.length; i++) {
-    let height = canvas.height - Math.random() * 200 - 40;
+    let height = canvas.height - Math.random() * 200 - 30;
 
     obstacles.push(
       new Obstacle(
