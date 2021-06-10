@@ -82,7 +82,7 @@ let namesList = [
   },
 
   {
-    name: "Ryan Asma",
+    name: "Rayan Asma",
     color: "#F6E713",
     imageDetails: {
       w: 180,
